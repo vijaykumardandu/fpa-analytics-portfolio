@@ -73,21 +73,25 @@ Finance teams manually build forecasts in Excel every month — it's slow, error
 ### Chart 1: Revenue Forecast Dashboard
 *Actual weekly revenue → Linear Regression fit → 4-week forecast with 95% CI bands + 13-week moving average trend line*
 
-![Forecast Dashboard](project1_forecasting_engine/forecast_dashboard.png)
+
+<img width="2094" height="1668" alt="forecast_dashboard" src="https://github.com/user-attachments/assets/5109d97d-5f51-4ca8-8232-eb2e1711baec" />
+
 
 ---
 
 ### Chart 2: Cost & Margin Analysis
 *Quarterly COGS vs OPEX breakdown (left) + Gross Margin trend with forecast (right)*
 
-![Cost Margin Analysis](project1_forecasting_engine/cost_margin_analysis.png)
+<img width="2080" height="738" alt="cost_margin_analysis" src="https://github.com/user-attachments/assets/7f87f63a-a2a6-4cbd-9349-f32ac559eb45" />
+
 
 ---
 
 ### Chart 3: Feature Importance
 *Which engineered features contribute most to the revenue prediction model*
 
-![Feature Importance](project1_forecasting_engine/feature_importance.png)
+<img width="1328" height="879" alt="feature_importance" src="https://github.com/user-attachments/assets/6788edb7-e85e-48ea-8b53-2e9cec4f6abb" />
+
 
 ---
 
@@ -151,7 +155,8 @@ This project builds an **automated variance attribution system** that:
 ### 6-Panel Variance Attribution Dashboard
 *Signal vs noise distribution | Anomaly count by department | Monthly budget vs actual | Department waterfall | Correlation heatmap | Monthly variance % trend*
 
-![Variance Attribution Dashboard](project2_variance_attribution/variance_attribution_dashboard.png)
+
+<img width="2256" height="1982" alt="variance_attribution_dashboard" src="https://github.com/user-attachments/assets/fc4bdf29-1212-4289-afde-604c247220f9" />
 
 ---
 
